@@ -1,0 +1,26 @@
+{
+  "timeZone": "Europe/Kyiv",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "LodashGS",
+        "version": "6",
+        "libraryId": "1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Automoto API",
+    "logoUrl": "https://play-lh.googleusercontent.com/ptzF425xVTphcxGpKkajHmnzSokx913n7y-EDWznzEsFZxWRHS_3C5c1AVBfCmdvagwL=w240-h480-rw",
+    "company": "Automoto.ua",
+    "companyUrl": "https://automoto.ua/uk/",
+    "addonUrl": "https://automoto.ua/uk/",
+    "supportUrl": "https://automoto.ua/uk/feedback",
+    "description": "Automoto API universal connector",
+    "sources": [
+      "automoto"
+    ]
+  }
+}
